@@ -16,13 +16,15 @@ Lastest Build (4.21 as of writing)
 
 Visual Studio Community 2017
 https://visualstudio.microsoft.com/
-```Game Development in C++
+```
+Game Development in C++
 Unreal Engine Module
 ```
 
 Github Desktop
 https://desktop.github.com/
-```...or your preferred client
+```
+...or your preferred client
 ```
 
 ### Installing
@@ -36,57 +38,17 @@ https://desktop.github.com/
 7. Build all VS files
 8. Do work
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Please consult the Code of Conduct and Licensing before attempting to contribute to the project. Then simply create a Pull Request and inform Louis or Sev of it.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Louis** - *Level Design/Networking/Blueprints/Project Management* - https://github.com/SirChopwood
+* **Sev** - *Animations/Project Management* - https://github.com/Sevelar
+* **Zeek** - *Asset Creation/Ripping*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Sevelar/ToNRP/contributors) who participated in this project.
 
 ## License
 
@@ -94,6 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+*Thank you to Idea Factory and Compile Heart for the Neptunia Franchise! <3
